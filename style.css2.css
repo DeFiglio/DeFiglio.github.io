@@ -1,0 +1,180 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+
+body{
+background-color: grey;
+width: 100%;
+}
+
+.container{
+	width: 90%;
+	margin: auto;
+}
+
+
+
+
+p {
+
+			color:white;
+			font-size:40px;
+			font-family:"Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+			text-align: center;
+			}
+
+
+
+
+
+
+
+
+
+
+
+           a { 
+           	color:white;
+           	font-size:30px;
+           	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+
+           }
+           
+header img {
+    height: 80px;
+}
+body {
+    height: 125vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+header img {
+    height: 80px;
+}
+body {
+    height: 125vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+main {
+    color: white;
+}
+
+
+header img {
+    height: 80px;
+}
+body {
+    height: 125vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+main {
+    color: white;
+}
+
+header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+}
+
+ .images2 {
+ 	width: 30%;
+ 	margin: 0 auto;
+ 	text-align: center;
+ }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+header img {
+    height: 80px;
+}
+body {
+    height: 125vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+header img {
+    height: 80px;
+}
+body {
+    height: 125vh;
+    background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg');
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+main {
+    color: white;
+
+
+    ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+} 
+
+li a {
+  display: block;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+
+
+
+
+
+
+
+
+
+
